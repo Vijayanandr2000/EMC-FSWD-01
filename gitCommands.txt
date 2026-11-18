@@ -1,0 +1,6 @@
+1. git init => Initialize
+2. git add <file or folder or path>
+3. git commit -m "MSG"
+4. git remote origin <URL> => Only at first time
+5. git push
+    if error forful push => git push origin main -f
