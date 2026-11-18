@@ -4,3 +4,5 @@
 4. git remote origin <URL> => Only at first time
 5. git push
     if error forful push => git push origin main -f
+
+6. Easy Push to github using vscode
